@@ -3,7 +3,7 @@
 A list of websites, blogs, books and other things that we found usefull while learing and working with Angular.
 
 ### Official documentation
-- [angular.io](www.angular.io) - tutorial, walkthrough, API reference
+- [angular.io](https://www.angular.io) - tutorial, walkthrough, API reference
 
 ### Blogs
 - [Thoughtram](https://blog.thoughtram.io/)
