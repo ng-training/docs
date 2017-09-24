@@ -1,6 +1,6 @@
 # List of Angular resources worth looking into
 
-A list of websites, blogs, books and other things that we found usefull while learing and working with Angular.
+A list of websites, blogs, books and other things that we found useful while learning and working with Angular.
 
 ### Official documentation
 - [angular.io](https://www.angular.io) - tutorial, walkthrough, API reference
@@ -31,4 +31,4 @@ A list of websites, blogs, books and other things that we found usefull while le
 - [Angular Connect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
 - [Ng Conf](https://www.youtube.com/user/ngconfvideos)
 
-There are lots of other resources we forgot or jost failed to mention here :)
+There are lots of other resources we forgot or just failed to mention here :)
