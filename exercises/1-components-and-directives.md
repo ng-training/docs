@@ -1,3 +1,5 @@
+## Components and directives
+
 1. Create a search component:
 - place it in the components folder
 - output with text changed

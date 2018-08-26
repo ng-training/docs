@@ -1,3 +1,5 @@
+## Modules
+
 1. Create a shared module:
 - should be in it’s own folder
 - should include common components that we want to share (like the search component)

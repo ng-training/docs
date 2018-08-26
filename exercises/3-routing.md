@@ -1,3 +1,5 @@
+## Routing
+
 1. Create an employee detail component and navigate to it:
 - you can create the detail component using the angular-cli
 - use the id as param to the route
