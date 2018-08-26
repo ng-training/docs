@@ -5,4 +5,6 @@
 - check for invalid input
 - check for edge cases
 
+2. (Extra) Create tests for one of the services
+
 [Next exercise](10-testing-angular.md)
