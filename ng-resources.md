@@ -6,6 +6,7 @@ A list of websites, blogs, books and other things that we found useful while lea
 - [angular.io](https://www.angular.io) - tutorial, walkthrough, API reference
 
 ### Blogs
+- [Angular in Depth](http://angularindepth.com)
 - [Thoughtram](https://blog.thoughtram.io/)
 - [Victor Savkin](https://vsavkin.com/)
 - [Ng book blog](http://blog.ng-book.com/)
