@@ -3,7 +3,7 @@
 ## Prerequisite software
 
 * NodeJS 10+ & NPM 6+
-* Angular CLI 7.3+
+* Angular CLI 8.3+
 * Git 2+
 * VS Code 1.3+
 
@@ -23,5 +23,4 @@ Once installed you can check that it works by typing `ng version` in a terminal.
 3. Install **Git** from [here](https://git-scm.com/downloads).
 On top of this, if you prefer to work with Git using a GUI client you can check those listed [here](https://git-scm.com/downloads/guis).
 
-4. Install **Visual Studio Code** from [here](https://code.visualstudio.com). We **recommend** that you use the same editor as we do through his course. You can use your own editor of choice but we don't want you to have any environment issues that are hard to fix.
-
+4. Install **Visual Studio Code** from [here](https://code.visualstudio.com). While you are of course free to use the editor of your choice, we **recommend** that you use the same editor as we do through this course, this way we will avoid any environment issues that you may encounter which are usually hard to fix.
